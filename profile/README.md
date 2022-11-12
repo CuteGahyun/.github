@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=70&duration=2500&pause=500&multiline=true&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=300&lines=%F0%9F%92%95+Gahyun+%F0%9F%92%95;;%E2%9C%A8+Taekang+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=70&duration=2500&pause=500&multiline=true&color=000000&background=FFFFFF&center=true&vCenter=true&width=1000&height=300&lines=%E2%9C%A8+Gahyun+%E2%9C%A8;;%E2%9C%A8+Taekang+%E2%9C%A8)](https://git.io/typing-svg)
